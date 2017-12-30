@@ -1,13 +1,13 @@
-Dealing with Emergency Situations
+Dealing with emergency situations
 ---------------------------------
 
-If the car is stuck between floors, if the door does not open, or in case of any other emergency situation, do the following:
+If the car is stuck between floors, if the door does not open, or in case of any other emergency situation:
 
 #. Relax and do not panic. There is plenty of air in the car.
 
-   .. warning:: Do not try to get out by yourself. IT IS DANGEROUS.
+   .. warning:: Do not try to get out by yourself.
    
-#. On the control panel (see :doc:`control-panel`), press the emergency call button.
+#. On the :doc:`control panel <control-panel>`, press the emergency call button.
 
    The |alarm| indicator will light up.
    

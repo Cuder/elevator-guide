@@ -4,12 +4,12 @@ DenvEL-4500 is a modern high-speed passenger elevator. It carries people between
 
 DenvEL-4500 consists of two main components:
 
-* the car — a cabin for passengers;
-* the hoistway — a shaft in which the car moves up and down.
+* The car—a cabin for passengers
+* The hoistway—a shaft in which the car moves up and down
 
 .. toctree::
    :maxdepth: 2
-   :caption: In this section:
+   :caption: In this section
    
    technical-characteristics
    why

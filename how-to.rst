@@ -5,7 +5,7 @@ This section provides instructions on using DenvEL-4500. Before proceeding, plea
 
 .. toctree::
    :maxdepth: 2
-   :caption: In this section:
+   :caption: In this section
    
    important-rules
    riding

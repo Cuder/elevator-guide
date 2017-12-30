@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-DenvEL-4500 Elevator Passenger Guide
+DenvEL-4500 elevator passenger guide
 ====================================
 
 .. image:: pics/cover.jpg
@@ -14,7 +14,7 @@ This guide is intended for passengers of the DenvEL-4500 elevator. The document 
 
 .. toctree::
    :maxdepth: 3
-   :caption: Table of contents:
+   :caption: Table of contents
    
    about
    how-to
